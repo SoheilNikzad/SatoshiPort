@@ -1,2 +1,2 @@
 # SatoshiPort
-A decentralized encrypted messenger app with multilingual support, using cryptocurrency wallets for authentication and public/private key encryption for secure messaging. The app will feature a clean, modern UI, multi-language support, and clear encryption status indicators, offering a secure and accessible messaging experience.
+Satoshi Port is a decentralized RPC node gateway that connects dApps to major EVM-compatible blockchain networks, enabling seamless transaction execution, data querying, and smart contract interaction. Supporting both public and private RPC endpoints, Satoshi Port offers developers flexible access while preserving autonomy and scalability. Bitcoin and additional non-EVM networks will be integrated in future releases.
